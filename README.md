@@ -67,7 +67,7 @@ deeplens-classification/
 ├── docs/                   # Documentation
 │  └── usage_guide.md       # Usage documentation
 ├── rocs_curves/            # some roc curves
-   └──images...
+│  └──images...
 └── common_task/        
    ├── readme.md
    ├── best_model.pth
